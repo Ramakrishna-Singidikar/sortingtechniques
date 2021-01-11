@@ -1,5 +1,3 @@
-# sortingtechniques
-bubble,quick,merge,insertion and selection sort
 # Sorting_Techniques
 Sorting Techniquies in C
 This Repository has sorting technique programs
